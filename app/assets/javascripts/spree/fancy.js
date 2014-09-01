@@ -22,7 +22,7 @@ $(function(){
       adaptiveHeight: true,
       auto: true,
       autoHover: true,
-      useCSS: true,
+      useCSS: false,
       controls: false,
       pagerSelector: '.slider-pager',
       touchEnabled: true
